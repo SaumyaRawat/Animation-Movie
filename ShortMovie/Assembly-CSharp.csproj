@@ -92,6 +92,7 @@
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F01\fbx_ctrl.xml" />
      <None Include="Assets\CityAssets\006441_09646_1_1\Shaders\su_Zmap_funsui.shader" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F05\fbx_list.txt" />
+     <None Include="Assets\Cars\shaders\VertexColor_twoSide.shader" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F05\animation_list_all.txt" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F02\fbx_ctrl.xml" />
      <None Include="Assets\CityAssets\006441_09646_1_1\Shaders\su_Zmap_way.shader" />
@@ -112,6 +113,7 @@
      <None Include="Assets\TaichiCharacterPack\Viewer\Resources\Taichi\Viewer Settings\fbx_ctrl.xml" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F03\Asphodel\animation_list_b.txt" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\M01\fbx_list.txt" />
+     <None Include="Assets\Cars\shaders\VertexColor.shader" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F03\Asphodel\fbx_ctrl.xml" />
      <None Include="Assets\CityAssets\PQAssets\Query-Chan-SD\license_en.txt" />
      <None Include="Assets\CityAssets\PQAssets\Query-Chan-SD\license_jp.txt" />
