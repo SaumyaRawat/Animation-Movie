@@ -45,16 +45,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-     <Compile Include="Assets\ZRNAssets\PQAssets\Query-Chan-SD\Sapporo_Props\SnowBallFightObject\Scripts\EnemyPcController.cs" />
-     <Compile Include="Assets\ZRNAssets\PQAssets\Query-Chan-SD\Sapporo_Props\SnowBallFightObject\Scripts\MoveSnowBall.cs" />
-     <Compile Include="Assets\ZRNAssets\PQAssets\Query-Chan-SD\Sapporo_Props\SnowBallFightObject\Scripts\PlayerController.cs" />
-     <Compile Include="Assets\ZRNAssets\PQAssets\Query-Chan-SD\Sapporo_Props\SnowBallFightObject\Scripts\SantaController.cs" />
-     <Compile Include="Assets\ZRNAssets\PQAssets\Query-Chan-SD\Sapporo_Props\SnowBallFightObject\Scripts\SnowBallShooter.cs" />
-     <Compile Include="Assets\ZRNAssets\PQAssets\Query-Chan-SD\Sapporo_Props\SnowBallFightObject\Scripts\SnowManController.cs" />
-     <Compile Include="Assets\ZRNAssets\PQAssets\Query-Chan-SD\Scripts\QuerySDController\QueryChanSapporoMecanimController.cs" />
-     <Compile Include="Assets\ZRNAssets\PQAssets\Query-Chan-SD\Scripts\SceneController\GameSceneController.cs" />
-=======
      <Compile Include="Assets\CityAssets\PQAssets\Query-Chan-SD\Sapporo_Props\SnowBallFightObject\Scripts\EnemyPcController.cs" />
      <Compile Include="Assets\CityAssets\PQAssets\Query-Chan-SD\Sapporo_Props\SnowBallFightObject\Scripts\MoveSnowBall.cs" />
      <Compile Include="Assets\CityAssets\PQAssets\Query-Chan-SD\Sapporo_Props\SnowBallFightObject\Scripts\PlayerController.cs" />
@@ -80,7 +70,7 @@
      <Compile Include="Assets\QuickCutsceneCreator\Scripts\QCNavigatorAddon.cs" />
      <Compile Include="Assets\QuickCutsceneCreator\Scripts\QCSceneViewCameraFollow.cs" />
      <Compile Include="Assets\QuickCutsceneCreator\Scripts\QuickCutsceneController.cs" />
->>>>>>> origin/master
+     <Compile Include="Assets\Scripts\GuyWalk.cs" />
      <None Include="Assets\TaichiCharacterPack\Shaders\toon_cutoff.shader" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\M01\animation_list.txt" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\background_list.txt" />
@@ -92,12 +82,6 @@
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F03\Arum\facial_texture_list_a.txt" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\stage_texture_list.txt" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F03\Arum\fbx_list.txt" />
-<<<<<<< HEAD
-     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
-     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ContrastComposite.shader" />
-     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader" />
-=======
->>>>>>> origin/master
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F05\animation_list.txt" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F05\fbx_ctrl.xml" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F03\Asphodel\fbx_list.txt" />
@@ -111,12 +95,7 @@
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F05\fbx_list.txt" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F05\animation_list_all.txt" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F02\fbx_ctrl.xml" />
-<<<<<<< HEAD
-     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader" />
-     <None Include="Assets\ZRNAssets\006441_09646_1_1\Shaders\su_Zmap_way.shader" />
-=======
      <None Include="Assets\CityAssets\006441_09646_1_1\Shaders\su_Zmap_way.shader" />
->>>>>>> origin/master
      <None Include="Assets\TaichiCharacterPack\Readme.txt" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\M01\fbx_ctrl.xml" />
      <None Include="Assets\TaichiCharacterPack\Viewer\Resources\Taichi\Viewer Settings\animation_list.txt" />
@@ -125,11 +104,6 @@
      <None Include="Assets\TaichiCharacterPack\Releasenote.txt" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F03\Arum\animation_list_a.txt" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\Puppet\animation_list.txt" />
-<<<<<<< HEAD
-     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader" />
-     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader" />
-=======
->>>>>>> origin/master
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F03\Arum\fbx_ctrl.xml" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F01\fbx_list.txt" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\F02\animation_list.txt" />
@@ -150,13 +124,6 @@
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
-<<<<<<< HEAD
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{4C1CFCA7-CE9E-76AD-1E93-019F5F1BD542}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
-=======
->>>>>>> origin/master
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

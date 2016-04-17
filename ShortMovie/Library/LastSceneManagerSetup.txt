@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Butterfly (Animated)/Demo Scene/Demo_Butterfly.unity
-=======
 - path: Assets/CityAssets/006441_09646_1_1/Scenes/sample.unity
->>>>>>> origin/master
   isLoaded: 1
   isActive: 1
