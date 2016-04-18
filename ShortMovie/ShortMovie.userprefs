@@ -1,8 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script items/TruckController.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TruckController.js">
     <Files>
-      <File FileName="Assets/script items/TruckController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TruckController.js" Line="19" Column="5" />
+      <File FileName="Assets\Scripts\GuyWalk.cs" Line="1" Column="1" />
+      <File FileName="Assets\TransitionScene.cs" Line="18" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -71,6 +71,7 @@
      <Compile Include="Assets\QuickCutsceneCreator\Scripts\QCSceneViewCameraFollow.cs" />
      <Compile Include="Assets\QuickCutsceneCreator\Scripts\QuickCutsceneController.cs" />
      <Compile Include="Assets\Scripts\GuyWalk.cs" />
+     <Compile Include="Assets\TransitionScene.cs" />
      <None Include="Assets\TaichiCharacterPack\Shaders\toon_cutoff.shader" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\M01\animation_list.txt" />
      <None Include="Assets\TaichiCharacterPack\TwinViewer\Resources\Taichi\TwinViewer Settings\background_list.txt" />
